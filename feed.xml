@@ -3,7 +3,7 @@
     <title>audioboon blog</title>
     <link href="https://staticcheck.github.io/persona/feed.xml" rel="self" />
     <link href="https://staticcheck.github.io/persona" />
-    <updated>2022-04-12T18:43:53+02:00</updated>
+    <updated>2022-04-28T09:48:53+02:00</updated>
     <author>
         <name>audioboon</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://staticcheck.github.io/persona/can-you-legally-use-a-song-without-the-songwriters-permission-3.html"/>
         <id>https://staticcheck.github.io/persona/can-you-legally-use-a-song-without-the-songwriters-permission-3.html</id>
 
-        <updated>2022-04-12T18:43:53+02:00</updated>
+        <updated>2022-04-28T09:48:53+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://staticcheck.github.io/persona/media/posts/3/mononoke010.jpeg" alt="" />
-                    Music has become an integral part of every audio-visual creation There are many songs released under “free usage” musical license&hellip;
+                     Music has become an integral part of every audio-visual creation There are many songs released under “free usage” musical&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -30,7 +30,7 @@
                 <p> </p>
 <p> </p>
 <p><span style="font-weight: 400;">Music has become an integral part of every audio-visual creation</span></p>
-<p><br><br><br><br></p>
+<div class="post__iframe"><iframe loading="lazy" style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=1047421641/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless=""><a href="https://audioboon.bandcamp.com/album/six-emotions">Six Emotions by Viktor Cikarovski</a></iframe></div>
 <p><span style="font-weight: 400;">There are many songs released under “free usage” musical license that you can use without asking for permission. If you want to use a song without permission, you need to understand which type of musical license allows you to do this, under which conditions, and where you can find this type of songs.</span></p>
 <p> </p>
 <p><span style="font-weight: 400;">This article will guide you on your quest.</span></p>
@@ -72,7 +72,7 @@
         <updated>2022-04-11T08:13:30+02:00</updated>
             <summary>
                 <![CDATA[
-                    Music has become an integral part of every audio-visual creation There are many songs released under “free usage” musical license&hellip;
+                     Music has become an integral part of every audio-visual creation There are many songs released under “free usage” musical&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -122,7 +122,7 @@
         <updated>2022-04-11T08:04:21+02:00</updated>
             <summary>
                 <![CDATA[
-                    Music has become an integral part of every audio-visual creation There are many songs released under “free usage” musical license&hellip;
+                     Music has become an integral part of every audio-visual creation There are many songs released under “free usage” musical&hellip;
                 ]]>
             </summary>
         <content type="html">
